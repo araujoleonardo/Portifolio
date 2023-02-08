@@ -295,9 +295,12 @@ img{
   width: 85%;
 }
 .skills__js{
-  width: 70%;
+  width: 85%;
 }
-.skills__ux{
+.skills__laravel{
+  width: 80%;
+}
+.skills__vue{
   width: 70%;
 }
 .skills__img{
